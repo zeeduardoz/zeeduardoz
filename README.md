@@ -26,6 +26,10 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeduardoz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zeeduardoz" /></p>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; align-content: space-between; flex-grow: 2; flex-basis: auto;">
+    
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeduardoz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zeeduardoz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&locale=en&theme=tokyonight" alt="zeeduardoz" /></p>
+  
+</div>
