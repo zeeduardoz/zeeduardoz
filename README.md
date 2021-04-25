@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dugadez" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-7.png" alt="dugadez" height="30" width="40" /></a>
+<a href="https://twitter.com/dugadez" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-7.png" alt="dugadez" height="30" width="30" /></a>
 <a href="https://instagram.com/zeeduardoz" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="zeeduardoz" height="30" width="40" /></a>
 <a href="#" target="blank" title="Dugade#4474"><img align="center" src="https://forum.muzago.net/uploads/monthly_2020_03/discord-logo-01.png.9ef565ad7e5ba4dca93fd8e644cb18b5.png" alt="Dugade#4474" height="30" width="40" /></a>
 </p>
