@@ -12,7 +12,6 @@
 - ⚡ Fun fact **I'm creative :smile:**
 
 <br>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +20,6 @@
 <a href="#" target="blank" title="Dugade#4474"><img align="center" src="https://forum.muzago.net/uploads/monthly_2020_03/discord-logo-01.png.9ef565ad7e5ba4dca93fd8e644cb18b5.png" alt="Dugade#4474" height="30" width="40" /></a>
 </p>
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
