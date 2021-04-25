@@ -28,11 +28,11 @@
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; align-content: space-between;">
     
-<p style="width: 49%;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeduardoz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zeeduardoz" /></p>
+<div style="width: 49%;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeduardoz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zeeduardoz" /></div>
 
-<p style="width: 49%;">
+<div style="width: 49%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&locale=en&theme=tokyonight" alt="zeeduardoz" />
-</p>
+</div>
   
 </div>
