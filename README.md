@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/dugadez" target="blank"><img src="https://img.shields.io/twitter/follow/dugadez?logo=twitter&style=for-the-badge" alt="dugadez" /></a> </p>
 
-- 🔭 I’m currently working on **WizerClub**
-
 - 💬 Ask me about **Front-end and Back-end**
 
 - 📫 How to reach me **zeedu.profissional@gmail.com**
