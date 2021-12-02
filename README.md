@@ -1,13 +1,40 @@
 <img align="right" width="400" src="https://www.cerebro.fit/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg" />
 
-### Hi there `I'm José,` welcome to my profile 👋
+<h2>Hey! I'm <b>José Eduardo!</b> <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="25px"></h2>
 
-Check my [profile](https://app.rocketseat.com.br/me/lucas-vanni) in Rocketseat App to more infos about i'm doing in Rocektseat course.
+I'm Full-Stack Developer at [act digital](https://actdigital.com).
+
+<br />
+
+I'm passionate about JavaScript, TypeScript, React, NodeJS and everything that involves these technologies.
+
+My main skill is using ReactJS. I'm also a huge NodeJS enthusiast.
+
+I have a degree in Computer Science at UNIP (Universidade Paulista) and I am also certified in the Rocketseat Ignite course, with a focus on ReactJS and NodeJS. 
 
 <br />
 <br />
 
-<div>
+<div align="center" >
+    <img  align="center" alt="HTML5" src="https://github.com/zeeduardoz/zeeduardoz/blob/main/github-user-contribution.svg" /> 
+    <br />
+    <br />
+    <img align="left"  width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeduardoz&layout=compact&theme=algolia" alt="José Lopes github stats" />
+    <img align="right"  width="367" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&theme=algolia&count_private=true" alt="José Lopes github stats" />
+</div>
+    
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div align="center">
    <h3>Languages and Tools:</h3>
     <div>
          <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -50,8 +77,8 @@ Check my [profile](https://app.rocketseat.com.br/me/lucas-vanni) in Rocketseat A
 <br/>
 <br/>
 
-<div>
-<h3>Connect with me in</h3>
+<div align="center">
+    <h3 align="center">Connect with me in</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-José%20Lopes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-eduardo-rodrigues-lopes/)](https://www.linkedin.com/in/jose-eduardo-rodrigues-lopes/)
 [![Email Badge](https://img.shields.io/badge/-eu@joselopes.me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eu@joselopes.me)](mailto:eu@joselopes.me)
@@ -60,21 +87,8 @@ Check my [profile](https://app.rocketseat.com.br/me/lucas-vanni) in Rocketseat A
 
 </div>
 
+<br/>
+
 <div align="center" >
-    <img  align="center" alt="HTML5" src="https://github.com/zeeduardoz/zeeduardoz/blob/main/github-user-contribution.svg" /> 
-    <br />
-    <br />
-    <img align="left"  width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeduardoz&layout=compact&theme=algolia" alt="José Lopes github stats" />
-    <img align="right"  width="367" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&theme=algolia&count_private=true" alt="José Lopes github stats" />
+    <p>Thanks for visiting :smiley:</>
 </div>
-    
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
