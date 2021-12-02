@@ -19,8 +19,10 @@ I have a degree in Computer Science at UNIP (Universidade Paulista) and I am als
     <img  align="center" alt="HTML5" src="https://github.com/zeeduardoz/zeeduardoz/blob/main/github-user-contribution.svg" /> 
     <br />
     <br />
-    <img align="left"  width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeduardoz&layout=compact&theme=algolia" alt="José Lopes github stats" />
-    <img align="right"  width="367" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&theme=algolia&count_private=true" alt="José Lopes github stats" />
+    <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&theme=omni&count_private=true" />
+  <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeduardoz&count_private=true&langs_count=4&layout=compact&theme=omni&hide=html,tsql,css,plpgsql,objective-c" />
+</div>
 </div>
     
 <br />
