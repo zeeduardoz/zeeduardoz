@@ -19,7 +19,7 @@ I have a degree in Computer Science at UNIP (Universidade Paulista) and I am als
     <img align="center" alt="HTML5" src="https://github.com/zeeduardoz/zeeduardoz/blob/main/github-user-contribution.svg" /> 
     <br />
     <br />
-    <div align="center" style="width: 100%; display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+    <div align="center" style="width: 100%; display:flex; flex-direction: row; align-items: center; justify-content: center">
         <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&theme=omni&count_private=true" />
         <img width="380px" align="right" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeduardoz&count_private=true&langs_count=4&layout=compact&theme=omni&hide=html,tsql,css,plpgsql,objective-c" />
     </div>
