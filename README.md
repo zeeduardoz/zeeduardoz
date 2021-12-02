@@ -10,19 +10,19 @@ I'm passionate about JavaScript, TypeScript, React, NodeJS and everything that i
 
 My main skill is using ReactJS. I'm also a huge NodeJS enthusiast.
 
-I have a degree in Computer Science at UNIP (Universidade Paulista) and I am also certified in the Rocketseat Ignite course, with a focus on ReactJS and NodeJS. 
+I have a degree in Computer Science at UNIP (Universidade Paulista) and I am also certified in the Rocketseat Ignite course, with a focus on ReactJS and NodeJS.
 
 <br />
 <br />
 
 <div align="center" >
-    <img  align="center" alt="HTML5" src="https://github.com/zeeduardoz/zeeduardoz/blob/main/github-user-contribution.svg" /> 
+    <img align="center" alt="HTML5" src="https://github.com/zeeduardoz/zeeduardoz/blob/main/github-user-contribution.svg" /> 
     <br />
     <br />
-    <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&theme=omni&count_private=true" />
-  <img width="380px" align="left" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeduardoz&count_private=true&langs_count=4&layout=compact&theme=omni&hide=html,tsql,css,plpgsql,objective-c" />
-</div>
+    <div align="center" style="width: 100%; display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+        <img width="380px" align="left" alt="1" src="https://github-readme-stats.vercel.app/api?username=zeeduardoz&show_icons=true&theme=omni&count_private=true" />
+        <img width="380px" align="right" alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeduardoz&count_private=true&langs_count=4&layout=compact&theme=omni&hide=html,tsql,css,plpgsql,objective-c" />
+    </div>
 </div>
     
 <br />
