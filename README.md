@@ -3,6 +3,7 @@
 <h2>Hey! I'm <b>José Eduardo!</b> <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="25px"></h2>
 
 I'm Full-Stack Developer at [act digital](https://actdigital.com).
+I'm CEO and Sr Front-end Developer at [dust inc](https://dustshop.net).
 
 <br />
 
