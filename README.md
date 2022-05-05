@@ -1,5 +1,3 @@
-<img align="right" width="400" src="https://avatars.githubusercontent.com/u/60855856?s=400&u=cccce84fc14faa8e6ca7e5892a3cb81e771008f9&v=4" height="auto" width="100" style="border-radius:20%" />
-
 <h2>Welcome 👋 , I'm <b>José Eduardo</b>.</h2>
 
 I'm a software developer specialized in building own websites and applications, using more than 3 years of software development dedicated to providing all IT solutions for public and private organizations, React Na Next for public solutions.js, Node Next .js and Nest.js. Passionate about learning new technologies like ChakraUI, TailwindCSS and techniques like JAMStack, finding solutions to work challenges and being part of a collaborative environment. I like to play games and watch movies and series in my spare time.
