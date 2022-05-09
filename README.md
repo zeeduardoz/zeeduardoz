@@ -1,6 +1,6 @@
 <h2>Welcome 👋 , I'm <b>José Eduardo</b>.</h2>
 
-I'm a software developer specializing in building exceptional websites and mobile apps with 3+ years involved in the entire software development lifecycle providing IT solutions for public and private organizations using React.js, React Native, Next.js, Node .js and Nest.js. Passionate about learning new technologies like ChakraUI, TailwindCSS and techniques like JAMStack, finding solutions to work challenges and being part of a collaborative environment. I really enjoy playing games and watching movies and series in my spare time.
+Software developer specialized in building exceptional websites and mobile applications, with more than 3 years involved in the entire software development lifecycle providing IT solutions for public and private organizations, using the best tools and technologies in the current market. I'm passionate about learning new technologies like ChakraUI, TailwindCSS and techniques like JAMStack and also about finding solutions to work challenges and being part of a collaborative environment.
 
 <br />
 <h3> 🛠 &nbsp;Tech Stack</h3>
