@@ -22,16 +22,20 @@ Software developer specialized in building exceptional websites and mobile appli
   ![Tailwind](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwindcss)
   ![ChakraUI](https://img.shields.io/badge/-ChakraUI-0A1A2F?style=flat&logo=chakraui)
   ![Storybook](https://img.shields.io/badge/-Storybook-0A1A2F?style=flat&logo=storybook)
-- ⚙️ &nbsp;VCS: &nbsp;
+- ⚙️ &nbsp;Platforms and Tools: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-0A1A2F?style=flat&logo=bitbucket)
+  ![GitLab](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
   ![AWS](https://img.shields.io/badge/-AWS-0A1A2F?style=flat&logo=aws)
   ![Vercel](https://img.shields.io/badge/-Vercel-0A1A2F?style=flat&logo=vercel)
   ![Netlify](https://img.shields.io/badge/-Netlify-0A1A2F?style=flat&logo=netlify)
   ![AppStore](https://img.shields.io/badge/-AppStore-0A1A2F?style=flat&logo=apple)
   ![GooglePlay](https://img.shields.io/badge/-GooglePlay-0A1A2F?style=flat&logo=google)
-  ![Firebase](https://img.shields.io/badge/-FireBase-0A1A2F?style=flat&logo=firebase)
+  ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
+  ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
+  ![Fastlane](https://img.shields.io/badge/-Fastlane-0A1A2F?style=flat&logo=fastlane)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
